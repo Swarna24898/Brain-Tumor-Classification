@@ -2,22 +2,22 @@
 Medical Imaging — Image Classification
 
 ## Skills Learned
-Deep Learning
-Python
-TensorFlow/Keras or PyTorch
-Data Preprocessing
-Transfer Learning
-Model Evaluation
-Streamlit Deployment
+1. Deep Learning
+2. Python
+3. TensorFlow/Keras or PyTorch
+4. Data Preprocessing
+5. Transfer Learning
+6. Model Evaluation
+7. Streamlit Deployment
 
 ## Project Workflow
 
-Understand the Dataset
-Data Preprocessing
-Data Augmentation
-Model Building
-Transfer Learning
-Model Training
-Model Evaluation
-Model Comparison
-Streamlit Application Deployment
+1. Understand the Dataset
+2. Data Preprocessing
+3. Data Augmentation
+4. Model Building
+5. Transfer Learning
+6. Model Training
+7. Model Evaluation
+8. Model Comparison
+9. Streamlit Application Deployment
